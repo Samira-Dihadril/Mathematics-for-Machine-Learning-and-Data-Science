@@ -1,9 +1,8 @@
-
-
-https://www.youtube.com/watch?v=OmJ-4B-mS-Y
-
 In short, the relationship between machine learning and mathematics is crucial. Concepts such as vectors, matrices, gradients, optimization, probability distributions, and p-values are integral to understanding how and why machine learning algorithms work. A solid grasp of the underlying mathematics allows for a deeper comprehension of algorithms, enabling customization and better decision-making in model building and debugging. The Mathematics-for-Machine-Learning-and-Data-Science Hub includes appies courses on linear algebra, calculus, and statistics, using python , providing a comprehensive foundation for applying mathematical principles in machine learning and data science. The goal is to empower learners to not only use machine learning algorithms but also to understand and potentially innovate new ones.
 
+![32264483720_0be41eb9d1_k](https://github.com/Samira-Dihadril/Mathematics-for-Machine-Learning-and-Data-Science/assets/152199402/98060789-af28-4c9c-832d-6ab98141b757)
+
+                                src : https://www.youtube.com/watch?v=OmJ-4B-mS-Y
 
 **Linear Algebra:**
 Linear algebra is foundational in machine learning, covering concepts such as vectors, matrices, linear transformations, systems of equations, and determinants. It provides a deeper understanding of how data manipulation, especially in neural networks, relies heavily on matrix operations.
