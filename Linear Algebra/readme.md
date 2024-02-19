@@ -5,7 +5,7 @@
 - **Algebra** contains the rules of how you the manipulate these equations.
 -  vectors and matrices  are multi-dimensional numbers, and the rules of how they relate to each other are captured in **linear algebra.**
 - **Linearity** : a function or operation is considered linear if it satisfies two key properties:
-    Additivity : f(x+y)=f(x)+f(y)f(x+y)=f(x)+f(y)
+    /n Additivity : f(x+y)=f(x)+f(y)f(x+y)=f(x)+f(y)
     Homogeneity : f(cx)=cf(x)f(cx)=cf(x)
 
 
